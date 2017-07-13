@@ -1,0 +1,37 @@
+Enter your first name:
+Bruce
+Enter your last name:
+Wayne
+Enter 1st # (1 thru 69):
+32
+Enter 2nd # (1 thru 69 excluding 32 ):
+55
+Enter 3rd # (1 thru 69 excluding 32 and 55 ):
+16
+Enter 4th # (1 thru 69 excluding 32 , 55 and 16 ):
+9
+Enter 5th # (1 thru 69 excluding 32 , 55 , 16 and 9 ):
+61
+Enter powerball # (1 thru 26):
+3
+Would another like to play (Y or N)?
+Enter your first name:
+Hulk
+Enter your last name:
+Hogan
+Enter 1st # (1 thru 69):
+32
+Enter 2nd # (1 thru 69 excluding 32 ):
+14
+Enter 3rd # (1 thru 69 excluding 32 and 14 ):
+64
+Enter 4th # (1 thru 69 excluding 32 , 14 and 64 ):
+9
+Enter 5th # (1 thru 69 excluding 32 , 14 , 64 and 9 ):
+45
+Enter powerball # (1 thru 26):
+3
+Would another like to play (Y or N)?
+Bruce Wayne 32  55  16  9  61 Powerball: 3
+Hulk Hogan 32  14  64  9  45 Powerball: 3
+Winning Powerball Number: 32  65  19  9  46 Powerball: 3
